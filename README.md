@@ -29,9 +29,10 @@ I'm an engineering leader who's spent 15+ years working in technology and now I'
 
 I write about what I'm learning, usually after getting stuck and figuring it out:
 
-- [When AI Coding Assistants Get Stuck in False Beliefs](https://data-slug.com/...) – That thing where the AI keeps "fixing" code that was wrong from the start
-- [The Boardroom: When AI Agents Need to Disagree](https://data-slug.com/...) – Building multi-agent systems that actually debate instead of just nodding along
-- [AI Personas](https://data-slug.com/...) – Making AI agents sound like actual people with opinions
+- [Standup Buddy: What 10 Hours of Voice AI Taught Me About Engineer Communication](https://data-slug.com/2026/02/18/standup-buddy-what-10-hours-of-voice-ai-taught-me-about-engineer-communication/) – Detecting when engineers are stuck through conversational signals, not just words
+- [When AI Coding Assistants Get Stuck in False Beliefs](https://data-slug.com/2025/12/07/when-ai-coding-assistants-get-stuck-in-false-beliefs/) – That thing where the AI keeps "fixing" code that was wrong from the start
+- [The Boardroom: When AI Agents Need to Disagree](https://data-slug.com/2026/02/10/the-boardroom-when-ai-agents-need-to-disagree/) – Building multi-agent systems that actually debate instead of just nodding along
+- [AI Personas](https://data-slug.com/2025/07/26/ai-personas/) – Making AI agents sound like actual people with opinions
 
 More at **[data-slug.com](https://data-slug.com)**
 
