@@ -12,6 +12,8 @@ I'm an engineering leader who's spent 15+ years working in technology and now I'
 
 **[council](https://github.com/lightshadow1/council)** – Multi-agent AI system where agents actually *debate* policy decisions instead of just taking turns talking. Turns out simulating productive disagreement is harder than it sounds.
 
+**[standup_buddy](https://github.com/lightshadow1/standup_buddy)** – Voice AI tool that detects when engineers are stuck through conversational signals (vagueness, hedging, help-seeking patterns). Built in 10 hours at AI Agents Waterloo, placed 8th.
+
 **[tax-advisor](https://github.com/lightshadow1/tax-advisor)** – RAG-powered Canadian tax advisor because nobody should have to read CRA documents alone. Built while learning Agno framework (honestly, best AI framework I've found for getting started quickly).
 
 **Platform infrastructure** – The day job. Leading a 15-person embedded platform team, mostly focused on keeping things running and trying to make the next deployment slightly less terrifying than the last.
